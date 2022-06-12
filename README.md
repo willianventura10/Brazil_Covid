@@ -1,3 +1,4 @@
 # Análise do Primeiro ano da COVID-19 no Brasil.
 Breve análise sobre o primeiro ano da Covid-19 no Brasil, utilizando Python e Power BI. Conforme análise, observa-se que existe uma correlação positiva entre o número de mortes e o número de casos (informação de certa forma óbvia), no entanto, comparando o ranking dos cinco estados com mais mortes per capita, com o ranking dos cinco estados com mais casos per capita, apenas o DF e RO estão presentes em ambos os rankings, o que pode ser um indício de que em alguns estados (AM, MT e RJ) houve um número de mortes superior ao "esperado" em relação ao número total de casos para cada estado. Sabemos que durante a pandemia os estados adotaram estratégias diferentes, o que explica, dentre outros fatores, os divergentes resultados no que tange ao controle da mesma.
+
 ![DASHBOARD](https://user-images.githubusercontent.com/100307643/158255203-3086dee9-efb5-4e3d-8e9d-569308bfc66e.jpg)
